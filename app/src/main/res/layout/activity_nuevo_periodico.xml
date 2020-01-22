@@ -41,10 +41,10 @@
                     android:id="@+id/nuevo_nombre"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:layout_margin="5dp"
                     android:imeOptions="actionDone"
                     android:inputType="text"
-                    android:maxLines="1" />
+                    android:maxLines="1"
+                    android:padding="15dp" />
 
             </com.google.android.material.textfield.TextInputLayout>
 
