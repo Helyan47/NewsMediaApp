@@ -116,6 +116,7 @@
                 android:background="@drawable/boton_redondeado"
                 android:text="Inserta periodico"
                 android:textColor="@android:color/white"
+                android:textStyle="bold"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
